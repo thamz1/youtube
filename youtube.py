@@ -5,7 +5,6 @@ import threading
 import time
 from queue import Queue
 import platform
-import request
 from colorama import Fore, init
 
 intro = """
